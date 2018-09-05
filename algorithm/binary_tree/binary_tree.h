@@ -3,7 +3,7 @@
  * Date         : 2018/9/4
  * File         : Binary_tree.h
  * Description  : 二叉树的基本结构实现
- * mail		: AuthorityWu@outlook.com
+ * e-mail	: AuthorityWu@outlook.com
  */
 
 #ifndef ADT_ADT_H
