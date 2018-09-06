@@ -41,7 +41,7 @@ int main() {
     tree = CreateTree(tree);
     Print(tree);
     printf("\n");
-    MakeEmpty(tree);
+    tree = MakeEmpty(tree);
     Print(tree);
     printf("\n");
 

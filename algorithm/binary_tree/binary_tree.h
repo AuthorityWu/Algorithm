@@ -6,8 +6,8 @@
  * e-mail	: AuthorityWu@outlook.com
  */
 
-#ifndef ADT_ADT_H
-#define ADT_ADT_H
+#ifndef ADT_BINARY_TREE_H
+#define ADT_BINARY_TREE_H
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -204,4 +204,4 @@ void Print(Tree tree) {
     return;
 }
 
-#endif //ADT_ADT_H
+#endif //ADT_BINARY_TREE_H
