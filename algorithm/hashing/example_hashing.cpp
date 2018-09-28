@@ -7,7 +7,7 @@
  *
  * Notice(注意): 本代码实现的结构，是由本人进行设计的，可能比较抽象
  * 有兴趣的可以通过以下网址，访问有关该结构的文章：
- *
+ * https://blog.csdn.net/qq_40760673/article/details/82785505
  */
 #include <time.h>
 #include "binary_tree.h"
