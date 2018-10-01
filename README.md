@@ -6,3 +6,6 @@
 |------|------|
 |二叉树|https://github.com/AuthorityWu/Algorithm/tree/master/algorithm/binary_tree|
 |栈|https://github.com/AuthorityWu/Algorithm/tree/master/algorithm/stack|
+|二项树|https://github.com/AuthorityWu/Algorithm/tree/master/algorithm/binomial_queue|
+|AVL——tree平衡二叉树|https://github.com/AuthorityWu/Algorithm/tree/master/algorithm/AVL_tree|
+|可扩散列|https://github.com/AuthorityWu/Algorithm/tree/master/algorithm/hashing|
