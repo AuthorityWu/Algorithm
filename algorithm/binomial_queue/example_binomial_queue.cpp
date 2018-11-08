@@ -7,9 +7,9 @@
 
 #include "binomial_queue.h"
 /*
- * 打印中“ 2-- + ”为2->right_child = 3,“ 2 ”为2->next_brother=3
- *              |                          |
- *              3                          3
+ * 打印中“ 2--+ ”为2->right_child = 3,“ 2 ”为2->next_brother=3
+ *            |                        |
+ *            3                        3
  */
 // 打印二项树
 void PrintBinTree(BinTree T, int deep) {
