@@ -3,6 +3,8 @@
  * Date         : 2018/10/10
  * File         : B_tree_example.cpp
  * Description  : B_tree 的插入删除功能测试、例子
+ * notice       : 以下博客对了 B-Tree 的插入及删除作了具体分析。
+ * url: https://blog.csdn.net/qq_40760673/article/details/83247243
  */
 
 #include <stdio.h>

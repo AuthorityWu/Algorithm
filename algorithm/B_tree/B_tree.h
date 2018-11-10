@@ -3,6 +3,8 @@
  * Date         : 2018/10/10
  * File         : B_tree.h
  * Description  : B_tree的节点和树 类声明
+ * notice	: 以下博客对了 B-Tree 的插入及删除作了具体分析。
+ * url: https://blog.csdn.net/qq_40760673/article/details/83247243
  */
 
 #ifndef B_TREE_B_TREE_H
