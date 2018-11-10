@@ -191,7 +191,7 @@ Tree DelNode(int number, Tree tree) {
     return tree;
 }
 
-// 顺序遍历 打印二叉树
+// 中序遍历 打印二叉树
 void Print(Tree tree) {
     Tree temp = tree;
 
